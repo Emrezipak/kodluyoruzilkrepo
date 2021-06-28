@@ -5,4 +5,9 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğtimimizde oluştu
 
 ` git clone https://github.com/Emrezipak/kodluyoruzilkrepo.git`
 
+# Usage
+- Linux için:
+
+`cd kodluyoruzilk/repo   code .`
+
 
