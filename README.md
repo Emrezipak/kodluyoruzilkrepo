@@ -19,3 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önceden ney
 
 [MIT](https://github.com/Emrezipak/kodluyoruzilkrepo/blob/main/LICENSE)
 
+![download](https://user-images.githubusercontent.com/60752320/123615504-092cba00-d80e-11eb-8421-58d591f23fee.png)
+
